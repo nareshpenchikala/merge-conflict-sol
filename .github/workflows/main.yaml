@@ -55,3 +55,4 @@ jobs:
           git commit -m "new files added"
           git push origin main
           cd ../
+          rm -rf dummy
